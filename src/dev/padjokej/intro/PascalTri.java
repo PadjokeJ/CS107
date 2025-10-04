@@ -1,3 +1,5 @@
+package dev.padjokej.intro;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package dev.padjokej.intro;
+
 public class Prime {
     public static void main(String[] args) {
         if (args.length < 1)
